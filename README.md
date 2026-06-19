@@ -8,4 +8,7 @@ Minecraft Modding • game creation • software development
 
 ### Stats
 ![](https://github-readme-activity-graph.vercel.app/graph?username=waterflane&theme=tokyo-night)
-![](https://leetcard.jacoblin.cool/waterflane?theme=dark&font=Noto%20Serif%20KR&ext=contest)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/waterflane?theme=dark&font=Noto%20Serif%20KR&ext=contest" />
+</p>
