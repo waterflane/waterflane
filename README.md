@@ -4,6 +4,7 @@ I'm interested in mathematics, programming, machine learning, and game developme
 
 ## Technologies
 Python • Java • C++ • Git • Lua • JavaScript
+
 Minecraft Modding • game creation • software development
 
 ### Stats
